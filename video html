@@ -1,0 +1,22 @@
+<!DOCYTIPE>
+<html>
+<head> Reproductor de video </head>
+<body>
+	<br/> <table> Lista De Reproduccion de video
+<table> 
+<tr>
+
+&nbsp;<td> video </td>
+&nbsp;
+</tr>
+</tr>
+&nbsp;<td> video</td>
+&nbsp;<td> video grasioso  </td>
+&nbsp;<td> <video src=" C:\Users\joseluis\Videos\Corto Seat Panda Video gracioso.mp4 " controls >
+  </video> </td>
+
+
+
+</table> 
+
+</body>
