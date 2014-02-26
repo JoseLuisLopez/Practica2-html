@@ -1,0 +1,33 @@
+<!DOCYTIPE>
+<html>
+<head> Reproductor de Audio </head>
+<body>
+	<br/> <table> Lista De Reproduccion
+<table> 
+<tr>
+&nbsp;<td> Titulo </td>
+&nbsp;<td> Artista </td>
+&nbsp;<td> Pista </td>
+&nbsp;
+</tr>
+</tr>
+&nbsp;<td> Mana</td>
+&nbsp;<td> labios compartidos  </td>
+&nbsp;<td> <audio src=" C:\Users\joseluis\Music\Mana  Labios Compartidos Letra.mp3 " controls  loop>
+  </audio> </td>
+&nbsp;
+</tr> 
+</tr>
+&nbsp;<td> pista </td>   
+&nbsp;<td> chuy lizarraga </td>
+&nbsp;<td> <audio src=" C:\Users\joseluis\Music\youtubemusic\03 - mudanzas a la luna.mp3" controls  loop>
+  </audio>  </td> 
+&nbsp;                  
+
+
+
+
+ 
+</table> 
+
+</body>
